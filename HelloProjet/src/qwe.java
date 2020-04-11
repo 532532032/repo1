@@ -1,6 +1,8 @@
+package HelloProjet.src;
+
 import org.junit.Test;
 
-public class Main {
+public class qwe {
 
     @Test
     public void testHelloWrold() {
